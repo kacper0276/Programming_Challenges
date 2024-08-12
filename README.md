@@ -32,12 +32,12 @@ To set up the project locally and run the code:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/kacper0276/Zadania_Programistyczne.git
+    git clone https://github.com/kacper0276/Programming_Challenges.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd Zadania_Programistyczne
+    cd Programming_Challenges
     ```
 
 3. **Choose the appropriate language directory** and follow the specific instructions for running the code in that language.
