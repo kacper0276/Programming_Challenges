@@ -18,14 +18,6 @@ The solutions are provided in several programming languages to showcase differen
 - **Java**
 - **JavaScript**
 
-## Languages
-
-- **C++**: A powerful language for system programming and competitive programming.
-- **C#**: A versatile language commonly used in enterprise and game development.
-- **Python**: A high-level language known for its simplicity and readability.
-- **Java**: A robust, object-oriented language used in web and application development.
-- **JavaScript**: A scripting language for creating dynamic web content.
-
 ## Installation
 
 To set up the project locally and run the code:
